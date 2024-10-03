@@ -28,4 +28,4 @@ I'm Kursad, a passionate creator, thinker, and problem solver who’s always one
 
 🔷 **You won’t find shortcuts here, just a dedication to doing things the right way.** 🔷
 
-# 🔷 **Personal Website: is [kursad.dev](https://kursad.dev)** 🔷
+#  👨‍💻 **Personal Website: is [kursad.dev](https://kursad.dev)**  👨‍💻
