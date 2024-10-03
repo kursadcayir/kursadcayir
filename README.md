@@ -1,6 +1,4 @@
-# ⬛️ Welcome to My World ⬛️
-
-# ⬛️ Personal website is [kursad.dev](https://kursad.dev) ⬛️
+# ⬛️ Welcome to My World, more in [kursad.dev](https://kursad.dev)  ⬛️
 
 I'm Kursad, a passionate creator, thinker, and problem solver who’s always one step ahead. Whether it's mastering complex systems or diving into history’s richest narratives, I believe in doing things with purpose and precision.
 
