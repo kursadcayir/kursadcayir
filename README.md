@@ -1,5 +1,7 @@
 # ⬛️ Welcome to My World ⬛️
 
+# ⬛️ Personal website is [kursad.dev](https://kursad.dev) ⬛️
+
 I'm Kursad, a passionate creator, thinker, and problem solver who’s always one step ahead. Whether it's mastering complex systems or diving into history’s richest narratives, I believe in doing things with purpose and precision.
 
 ### ⚙️ Why I Do What I Do:
@@ -28,4 +30,4 @@ I'm Kursad, a passionate creator, thinker, and problem solver who’s always one
 
 🔷 **You won’t find shortcuts here, just a dedication to doing things the right way.** 🔷
 
-🔷 **Personal Website: kursad.dev** 🔷
+#🔷 **Personal Website: is [kursad.dev](https://kursad.dev)** 🔷
